@@ -11,7 +11,7 @@ void Stepen(int a, int b)
     {
         result = result * a;
     }
-    Console.WriteLine(a + " в " + b + "степени равно: " + result);
+    Console.WriteLine(a + " в " + b + " степени равно: " + result);
 }
 
 // Функция ввода данных с предварительном выводом сообщения
